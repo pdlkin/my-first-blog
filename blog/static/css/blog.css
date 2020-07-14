@@ -7,7 +7,7 @@ body {
 }
 
 .page-header {
-    background-color: #00e1ff;
+    background-color: #ff4800;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -51,4 +51,8 @@ h1, h2, h3, h4 {
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
 }
